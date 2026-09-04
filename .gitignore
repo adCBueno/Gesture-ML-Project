@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+.DS_Store
+models/*.joblib
+models/*.mlmodel
+data/raw/*.csv
+!data/raw/sample_landmarks.csv

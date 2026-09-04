@@ -1,0 +1,13 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+matplotlib>=3.7
+pytest>=7.4
+
+# Only needed for live data collection (runs on your laptop, has a webcam):
+opencv-python>=4.8
+mediapipe>=0.10
+
+# Only needed if you export the model for on-device iOS inference:
+coremltools>=7.0
