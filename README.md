@@ -13,7 +13,7 @@ It's designed to plug into the hand-tracking web app you already built
 angles/distances to recognize a chord shape, a model *learns* the mapping
 from data you record.
 
-## Why this structure (and why it's worth having on your CV)
+## Why this structure
 
 Real ML work is rarely "train a model in a notebook and you're done." This
 repo is organized to reflect the actual steps and the actual failure modes:
